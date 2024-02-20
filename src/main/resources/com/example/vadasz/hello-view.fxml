@@ -22,7 +22,7 @@
                   <Font name="System Bold" size="12.0" />
                </font>
             </Label>
-            <Label alignment="TOP_RIGHT" contentDisplay="RIGHT" maxWidth="1.7976931348623157E308" text="0 / 0 róka" HBox.hgrow="ALWAYS">
+            <Label fx:id="lbRoka" alignment="TOP_RIGHT" contentDisplay="RIGHT" maxWidth="1.7976931348623157E308" text="0 / 0 róka" HBox.hgrow="ALWAYS">
                <font>
                   <Font name="System Bold" size="12.0" />
                </font>
